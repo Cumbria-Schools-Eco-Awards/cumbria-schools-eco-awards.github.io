@@ -15,7 +15,7 @@
         <section id="banner" class="style2">
             <div class="inner">
                 <span class="image">
-                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                    <img src="{{ page.image }}" alt="">
                 </span>
                 <header class="major">
 
@@ -30,8 +30,11 @@
             </div>
         </section>
 
+    <!-- Main -->
+    <div id="main">
     {{ content }}
-
+    </div>
+    
     {% include footer.html %}
 
 </body>

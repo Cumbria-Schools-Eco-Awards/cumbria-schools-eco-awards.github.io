@@ -1,10 +1,9 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Cumbria Schools Eco Awards
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+description: Celebrating and Supporting, Local Eco Initiatives.
+baseurl: # the subpath of your site, e.g. /blog
+url:  https://cumbria-schools-eco-awards.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
