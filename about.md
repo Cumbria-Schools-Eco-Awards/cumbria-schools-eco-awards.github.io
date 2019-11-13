@@ -4,6 +4,8 @@ title: About the Awards
 nav-menu: true
 description: Spreading and encourage participation in ecological activity in Cumbria.
 order: 1
+intro: ''
+
 ---
 Cumbria is the second largest county in England, custodian of the much-loved Lake District National Park, celebrated on a global scale as a UNESCO world heritage site. Our economy is tightly connected with our natural environment and four of our six districts councils have
 declared a climate emergency.

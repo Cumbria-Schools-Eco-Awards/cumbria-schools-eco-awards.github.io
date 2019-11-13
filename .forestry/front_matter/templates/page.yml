@@ -28,3 +28,5 @@ fields:
     schema:
       format: markdown
   label: Intro
+pages:
+- about.md
