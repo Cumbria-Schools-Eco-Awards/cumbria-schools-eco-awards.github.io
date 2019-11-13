@@ -5,6 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: tiles
+  label: Tiles
+  create: all
+  match: "**/*"
+  templates:
+  - page
+- type: directory
   path: awards
   label: Awards
   create: documents
