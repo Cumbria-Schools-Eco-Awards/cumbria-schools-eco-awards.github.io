@@ -5,17 +5,22 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: awards
+  label: Awards Pages
+  create: all
+  match: "**"
+- type: directory
   path: tiles
   label: Tiles
   create: all
-  match: "**/*"
+  match: "**"
   templates:
   - page
 - type: directory
-  path: awards
-  label: Awards
+  path: awards/categories
+  label: Award Categories
   create: documents
-  match: "**/*"
+  match: "**"
 - type: jekyll-pages
   label: Pages
   create: all

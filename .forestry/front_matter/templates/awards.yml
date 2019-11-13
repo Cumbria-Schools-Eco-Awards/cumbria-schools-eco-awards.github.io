@@ -26,5 +26,3 @@ fields:
   config:
     required: false
   label: subtitle
-pages:
-- awards.md
