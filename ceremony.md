@@ -4,6 +4,8 @@ title: Eco-Innovation Day & The Awards Ceremony
 nav-menu: true
 description: Share a fantastic day of talks, displays and finally the award giving.
 order: 4
+intro: ''
+
 ---
 Whether you are have an established set of environmental activities taking place in school
 or just starting out exploring ideas, the eco-innovation day is the opportunity for idea
