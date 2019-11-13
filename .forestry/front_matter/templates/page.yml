@@ -31,5 +31,6 @@ fields:
       format: markdown
   label: Intro
 pages:
+- ceremony.md
 - apply.md
 - about.md
