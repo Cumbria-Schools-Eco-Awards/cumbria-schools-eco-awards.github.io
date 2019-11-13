@@ -33,6 +33,7 @@ fields:
   name: image
   label: image
 pages:
+- awards/footprint-award.md
 - awards/one-world-award.md
 - awards/innovation_award.md
 - awards/community-award.md

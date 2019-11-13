@@ -5,7 +5,8 @@ nav-menu: false
 category: Award
 show_tile: false
 order: 1
-image: /assets/images/pic08.jpg
+image: "/assets/images/pic08.jpg"
+
 ---
 How is your school working to minimise or mitigate its environmental footprint? How ‘green’
 is your school ethos? How is your school empowering both staff and students to take
