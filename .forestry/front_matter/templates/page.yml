@@ -5,27 +5,26 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: page
+  hidden: true
 - type: text
   name: title
   label: title
-- type: text
-  name: landing-title
-  label: landing-title
 - type: boolean
   name: nav-menu
   label: nav-menu
 - type: text
   name: description
   label: description
-- type: text
-  name: image
-  label: image
-- type: text
-  name: author
-  label: author
-- type: boolean
-  name: show_tile
-  label: show_tile
 - type: number
   name: order
   label: order
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Intro
