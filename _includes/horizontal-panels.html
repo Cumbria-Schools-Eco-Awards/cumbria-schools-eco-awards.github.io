@@ -1,0 +1,20 @@
+<section id="two" class="spotlights">
+  {% for row in include.rows %}
+    <section>
+      <a href="{{ row.url }}" class="image">
+        <img src="{{ row.image }}" alt="" data-position="center center" />
+      </a>
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+            <h3>{{ row.title }}</h3>
+          </header>
+          <p>{{ row.content }}</p>
+          <ul class="actions">
+            <li><a href="{{ row.url }}" class="button">Learn more</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  {% endfor %}
+</section>
