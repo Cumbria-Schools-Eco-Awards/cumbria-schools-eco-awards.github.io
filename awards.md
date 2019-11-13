@@ -16,7 +16,7 @@ order: 2
 </section>
 
 
-{% assign awards = site.pages | where:"category","Award" | sort:"order" %}
+{% assign awards = site.pages | where: "category","Award" | sort: "order" %}
 <section id="two" class="spotlights">
   {% for award in awards %}
     <section>
