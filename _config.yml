@@ -1,9 +1,9 @@
 # site settings
-title: Cumbria Schools Eco Awards
+title: Cumbria Eco Forum
 email: youremailaddress@gmail.com
 description: Celebrating and Supporting, Local Eco Initiatives.
 baseurl: # the subpath of your site, e.g. /blog
-url:  https://cumbria-schools-eco-awards.github.io # the base hostname & protocol for your site
+url:  https://cumbria.ecoforum.org.uk # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville

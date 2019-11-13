@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to the Cumbria Schools Eco Awards'
+landing-title: 'Welcome to the Cumbria Eco Forum'
 description: null
 image: null
 author: null
