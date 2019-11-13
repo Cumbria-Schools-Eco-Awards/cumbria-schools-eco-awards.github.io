@@ -21,7 +21,3 @@ fields:
 - type: number
   name: order
   label: order
-pages:
-- about.md
-- ceremony.md
-- apply.md

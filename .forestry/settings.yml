@@ -8,7 +8,7 @@ sections:
   path: tiles
   label: Tiles
   create: all
-  match: "**/*"
+  match: "**"
   templates:
   - page
 - type: directory
