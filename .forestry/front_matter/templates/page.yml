@@ -22,6 +22,6 @@ fields:
   name: order
   label: order
 pages:
+- about.md
 - ceremony.md
 - apply.md
-- about.md
