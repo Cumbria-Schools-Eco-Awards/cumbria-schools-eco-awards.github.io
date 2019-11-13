@@ -1,0 +1,22 @@
+---
+label: Awards
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: nav-menu
+  label: nav-menu
+- type: text
+  name: description
+  label: description
+- type: textarea
+  name: intro
+  label: intro
+- type: number
+  name: order
+  label: order
