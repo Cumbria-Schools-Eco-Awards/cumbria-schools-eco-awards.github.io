@@ -33,4 +33,5 @@ fields:
   name: image
   label: image
 pages:
+- awards/innovation_award.md
 - awards/community-award.md
