@@ -1,27 +1,22 @@
 ---
-label: Page
+label: Awards
 hide_body: false
 fields:
 - type: text
   name: layout
   label: layout
-  default: page
-  hidden: true
 - type: text
   name: title
   label: title
 - type: boolean
   name: nav-menu
   label: nav-menu
-  hidden: true
-  default: true
 - type: text
   name: description
   label: description
+- type: textarea
+  name: intro
+  label: intro
 - type: number
   name: order
   label: order
-pages:
-- ceremony.md
-- apply.md
-- about.md
