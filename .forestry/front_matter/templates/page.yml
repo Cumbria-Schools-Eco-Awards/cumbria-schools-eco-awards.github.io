@@ -13,6 +13,8 @@ fields:
 - type: boolean
   name: nav-menu
   label: nav-menu
+  hidden: true
+  default: true
 - type: text
   name: description
   label: description
