@@ -4,7 +4,7 @@ title: The Community Award
 nav-menu: false
 category: Award
 show_tile: false
-order: "2"
+order: 2
 image: "/assets/images/pic10.jpg"
 
 ---

@@ -32,3 +32,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- awards/community-award.md
