@@ -21,15 +21,6 @@ fields:
 - type: number
   name: order
   label: order
-- name: intro
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Intro
 pages:
 - ceremony.md
 - apply.md
