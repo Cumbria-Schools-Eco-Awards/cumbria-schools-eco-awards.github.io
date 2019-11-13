@@ -1,0 +1,25 @@
+---
+label: Award
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: nav-menu
+  label: nav-menu
+- type: text
+  name: category
+  label: category
+- type: boolean
+  name: show_tile
+  label: show_tile
+- type: number
+  name: order
+  label: order
+- type: file
+  name: image
+  label: image
