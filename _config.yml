@@ -1,7 +1,7 @@
 # site settings
 title: Cumbria Eco Forum
 email: youremailaddress@gmail.com
-description: Celebrating and Supporting, Local Eco Initiatives.
+description: Celebrating and Supporting, Local Environmental Initiatives.
 baseurl: # the subpath of your site, e.g. /blog
 url:  https://cumbria.ecoforum.org.uk # the base hostname & protocol for your site
 author:
