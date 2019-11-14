@@ -35,7 +35,7 @@ fields:
   name: category
   label: category
   hidden: true
-  default: null
+  default: 
 pages:
-- awards/ceremony.md
 - awards/apply.md
+- awards/ceremony.md
