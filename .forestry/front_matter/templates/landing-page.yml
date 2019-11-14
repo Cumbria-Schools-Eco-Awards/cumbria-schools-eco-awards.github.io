@@ -13,7 +13,7 @@ fields:
 - type: boolean
   name: nav-menu
   label: nav-menu
-  default: false
+  default: true
   hidden: true
 - type: text
   name: description
@@ -23,9 +23,13 @@ fields:
   config:
     required: false
   label: subtitle
+- type: text
+  name: intro
+  label: intro
 - type: boolean
   name: show_tile
   label: show_tile
+  default: true
   hidden: true
 - type: number
   name: order
