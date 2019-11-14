@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apply for an Award
-description: Instructions and forms.
+description: Download the application pack.
 order: 3
 show_tile: false
 permalink: "/awards/apply"
@@ -10,4 +10,4 @@ image: "/assets/images/pic10.jpg"
 nav-menu: false
 
 ---
-Various downloads
+Once you have decided on the category or categories you would like to apply for, download the application pack.
