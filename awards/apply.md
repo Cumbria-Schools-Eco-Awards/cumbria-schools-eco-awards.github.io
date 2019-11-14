@@ -11,3 +11,11 @@ nav-menu: false
 
 ---
 Once you have decided on the category or categories you would like to apply for, download the application pack.
+
+Deadline for applications: ……………….…….
+
+Awards day and winners announcements: ……………………..
+
+Prize giving: …………………………………………..
+
+For further guidance on each award see the Awards Submissions.
