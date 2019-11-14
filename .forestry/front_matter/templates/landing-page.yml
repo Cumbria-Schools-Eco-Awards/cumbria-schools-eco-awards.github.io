@@ -45,3 +45,5 @@ fields:
   label: category
   hidden: true
   default: Award
+pages:
+- awards/awards-categories.md
