@@ -37,7 +37,7 @@ fields:
   hidden: true
   default: 
 pages:
+- awards/ceremony.md
 - awards/apply.md
 - forum/resources.md
 - forum/events.md
-- awards/ceremony.md
