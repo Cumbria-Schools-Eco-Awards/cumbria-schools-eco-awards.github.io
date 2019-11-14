@@ -36,3 +36,5 @@ fields:
   label: category
   hidden: true
   default: Award
+pages:
+- awards/apply.md
