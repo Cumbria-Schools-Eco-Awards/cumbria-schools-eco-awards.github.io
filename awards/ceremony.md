@@ -1,11 +1,11 @@
 ---
-layout: awards
+layout: page
 title: Eco-Innovation Day & The Awards Ceremony
 description: Share a fantastic day of talks, displays and finally the award giving.
 order: 4
 show_tile: false
 permalink: "/awards/ceremony"
-category: Award
+category: Award-Page
 image: "/assets/images/pic08.jpg"
 nav-menu: false
 

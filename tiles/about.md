@@ -14,8 +14,8 @@ Our community is inextricably linked to the environment: the drama of the lakes 
 
 1. To hold an annual school award competition and celebrate and reward the winners in a high profile environmental awards ceremony.
 2. To have every school in Cumbria engaged in environmentalism. Supported by
-    a. An eco-connections hub - support and information resource for schools starting out or at any stage in their environmental journey.
-    b. Start up grants for environmental initiatives.
+    1. An eco-connections hub - support and information resource for schools starting out or at any stage in their environmental journey.
+    2. Start up grants for environmental initiatives.
 
 ## Team:
 

@@ -6,7 +6,7 @@ fields:
   name: layout
   label: layout
   hidden: true
-  default: awards
+  default: landing
 - type: text
   name: title
   label: title
@@ -44,7 +44,7 @@ fields:
   name: category
   label: category
   hidden: true
-  default: Award
+  default: null
 pages:
 - tiles/forum.md
 - awards/awards-categories.md
