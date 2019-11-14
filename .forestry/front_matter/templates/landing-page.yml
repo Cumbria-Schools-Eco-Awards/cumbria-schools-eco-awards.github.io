@@ -23,7 +23,7 @@ fields:
   config:
     required: false
   label: subtitle
-- type: text
+- type: textarea
   name: intro
   label: intro
 - type: boolean
