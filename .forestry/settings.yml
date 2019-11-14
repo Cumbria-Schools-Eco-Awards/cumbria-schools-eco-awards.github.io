@@ -14,8 +14,6 @@ sections:
   label: Tiles
   create: all
   match: "**"
-  templates:
-  - page
 - type: directory
   path: awards/categories
   label: Award Categories
