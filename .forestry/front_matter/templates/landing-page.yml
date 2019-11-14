@@ -46,4 +46,5 @@ fields:
   hidden: true
   default: Award
 pages:
+- tiles/forum.md
 - awards/awards-categories.md
