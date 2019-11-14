@@ -19,6 +19,8 @@ sections:
   label: Award Categories
   create: documents
   match: "**"
+  templates:
+  - page
 - type: jekyll-posts
   label: Posts
   create: all
