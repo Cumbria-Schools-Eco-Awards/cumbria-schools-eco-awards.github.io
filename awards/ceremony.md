@@ -6,6 +6,8 @@ order: 4
 intro: ''
 show_tile: false
 permalink: /awards/ceremony
+category: Award-Page
+image: "/assets/images/pic08.jpg"
 ---
 Whether you are have an established set of environmental activities taking place in school
 or just starting out exploring ideas, the eco-innovation day is the opportunity for idea

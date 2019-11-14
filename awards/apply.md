@@ -6,5 +6,7 @@ order: 3
 intro: ''
 show_tile: false
 permalink: /awards/apply
+category: Award-Page
+image: "/assets/images/pic10.jpg"
 ---
 Various downloads
