@@ -5,10 +5,10 @@ description: Awards in four flavours.
 subtitle: Our Awards
 order: 2
 show_tile: false
-intro: Each category is open to all primary and secondary schools within Cumbria.  Each
-  school may apply once to as many categories as they wish - excluding the innovation
-  of year award - which will be awarded to the most innovative entrant to the other
-  categories.
+intro: 'There are four award categories, with all entries automatically entered into
+  the Cumbrian Environmental School of the Year Award. Our winners will be chosen
+  by a panel of judges (yet to be announced). Each award will come with a financial
+  prize. '
 permalink: "/awards/categories"
 category: Award-Page
 image: "/assets/images/pic09.jpg"
