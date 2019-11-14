@@ -18,6 +18,11 @@ fields:
 - type: text
   name: description
   label: description
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: subtitle
 - type: boolean
   name: show_tile
   label: show_tile
