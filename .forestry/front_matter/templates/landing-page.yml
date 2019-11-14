@@ -16,7 +16,7 @@ fields:
   default: true
   hidden: true
 - type: text
-  name: description
+  name: textarea
   label: description
 - name: subtitle
   type: text
@@ -44,7 +44,7 @@ fields:
   name: category
   label: category
   hidden: true
-  default: 
+  default:
 pages:
 - awards/awards-categories.md
 - tiles/awards.md

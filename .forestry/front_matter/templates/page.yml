@@ -15,7 +15,7 @@ fields:
   label: nav-menu
   default: false
   hidden: true
-- type: text
+- type: textarea
   name: description
   label: description
 - type: boolean
@@ -35,7 +35,7 @@ fields:
   name: category
   label: category
   hidden: true
-  default: 
+  default:
 pages:
 - forum/resources.md
 - forum/events.md
