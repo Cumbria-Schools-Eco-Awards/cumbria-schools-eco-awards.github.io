@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Within School Action Awards
+title: 'Overall Cumbrian Environmental School of the Year '
 nav-menu: false
 category: Award
 show_tile: false
-order: 1
+order: '5'
 image: "/assets/images/pic08.jpg"
-description: This award is for demonstrable impact either through a single initiative
-  or a range of activities that take place within the schools boundary to lower the
-  school’s environmental footprint and safeguard the school environment.
+description: 'All schools entering one or more of the previous award categories will
+  automatically be entered for the overall Cumbria environmental school of the year.
+  The winner will be chosen by our panel of judges. '
 published: false
 
 ---
