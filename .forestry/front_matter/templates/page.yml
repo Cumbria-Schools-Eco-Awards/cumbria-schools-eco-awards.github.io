@@ -37,7 +37,7 @@ fields:
   hidden: true
   default: 
 pages:
-- forum/eco-events-in-cumbria.md
+- forum/grants.md
 - awards/ceremony.md
 - awards/apply.md
 - forum/resources.md
