@@ -37,4 +37,5 @@ fields:
   hidden: true
   default: Award
 pages:
+- awards/ceremony.md
 - awards/apply.md

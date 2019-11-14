@@ -1,12 +1,14 @@
 ---
-layout: page
+layout: awards
 title: Eco-Innovation Day & The Awards Ceremony
 description: Share a fantastic day of talks, displays and finally the award giving.
 order: 4
 show_tile: false
-permalink: /awards/ceremony
-category: Award-Page
+permalink: "/awards/ceremony"
+category: Award
 image: "/assets/images/pic08.jpg"
+nav-menu: false
+
 ---
 Whether you are have an established set of environmental activities taking place in school
 or just starting out exploring ideas, the eco-innovation day is the opportunity for idea
