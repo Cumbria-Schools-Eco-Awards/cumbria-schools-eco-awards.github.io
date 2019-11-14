@@ -23,8 +23,6 @@ Think broadly about what your school does. The environment is at the heart of ev
    1. Video presentation – a 5 min video to illustrate what your school is doing. We do not expect you to be professional cinematographers, although you may have some very talented students, teachers or parents who can help.
    2. Supporting documents – a written summary of project (s) to support and further explain the projects summarised in your video.
 
-Once you have decided on the category or categories you would like to apply for, download
-
 Once you have decided on the category or categories you would like to apply for, download the application pack.
 
 | Deadline for applications: | ……………….……. |   
