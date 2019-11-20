@@ -24,9 +24,10 @@ Think broadly about what your school does. The environment is at the heart of ev
 2. Award submission – one application per category
    1. Video presentation – a 5 min video to illustrate what your school is doing. We do not expect you to be professional cinematographers, although you may have some very talented students, teachers or parents who can help.  
       Videos should be uploaded to YouTube or Vimeo on a School Account with all of the appropriate permissions from your school.  
-      ["YouTube Documentation"](https://support.google.com/youtube/answer/57407?hl=en-GB&ref_topic=9257439 )
-
-      ["Vimeo Documentation"](https://help.vimeo.com/hc/en-us/categories/201496018-Uploading-to-Vimeo)
+      
+      Documentation: ["YouTube"](https://support.google.com/youtube/answer/57407?hl=en-GB&ref_topic=9257439 ),
+      ["Vimeo"](https://help.vimeo.com/hc/en-us/categories/201496018-Uploading-to-Vimeo)
+      
    2. Supporting documents – a written summary of your project(s) to support and further explain the projects summarised in your video.
 3. Finalists
 
@@ -34,5 +35,5 @@ Think broadly about what your school does. The environment is at the heart of ev
 
 Once you have decided on the category or categories you would like to apply for, download the application pack. (_Link to application pack....)_
 
-| Deadline for applications: | Friday 7th February 2020 |  
+| Deadline for applications: | Friday 7th February 2020 |
 | Awards day: | Friday 13th March 2020 |
