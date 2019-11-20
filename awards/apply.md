@@ -10,7 +10,7 @@ image: "/assets/images/pic10.jpg"
 nav-menu: false
 
 ---
-Schools may submit up to 1 entry for each award category. Our judges will look at every application in isolation and only when choosing the overall Cumbrian Environmental School of the Year will we consider multiple applications from one school together.
+Schools may submit only one entry for each award category. Our judges will look at every application in isolation and only when choosing the overall Cumbrian Environmental School of the Year will we consider multiple applications from one school together.
 
 The application process is not designed to be onerous and therefore we are avoiding being overly prescriptive. We want you to explain your work in a way that suits your school the best. We do want to avoid schools submitting large quantities of extra paperwork, although if there are supporting documents or items that you feel help showcase your good work please contact us.
 
@@ -18,13 +18,19 @@ Think broadly about what your school does. The environment is at the heart of ev
 
 ### Application process
 
-1. School entry form – submit only one per school. This is to tell us a little bit more about your school and the context for the environmental initiatives you are doing.
+1. School entry form – submit only one per school.
+
+   This is to tell us a little bit more about your school and the context for the environmental initiatives you are undertaking.
 2. Award submission – one application per category
    1. Video presentation – a 5 min video to illustrate what your school is doing. We do not expect you to be professional cinematographers, although you may have some very talented students, teachers or parents who can help.
+
+      _Need to expand on acceptable video formats...._
    2. Supporting documents – a written summary of project (s) to support and further explain the projects summarised in your video.
+3. Finalists
 
-Once you have decided on the category or categories you would like to apply for, download the application pack.
+   Up to Five finalists will be chosen for each category. Each finalist will be asked to form a presentation team of one teacher and up to three students, and to present live to the judges on Awards Day.
 
-| Deadline for applications: | ……………….……. |   
-| Awards day and winners announcements: | …………………….. |   
-| Prize giving: | ………………………………………….. |
+Once you have decided on the category or categories you would like to apply for, download the application pack. (_Link to application pack....)_
+
+| Deadline for applications: Friday 7th February 2020  
+| Awards day: Friday 13th March 2020
