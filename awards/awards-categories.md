@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: The Award Categories
-description: Awards in four flavours.
+description: Awards in four flavours
 subtitle: Our Awards
 order: 2
 show_tile: false
