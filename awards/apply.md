@@ -6,7 +6,7 @@ order: 3
 show_tile: false
 permalink: "/awards/apply"
 category: Award-Page
-image: "/assets/images/pic10.jpg"
+image: "/assets/images/application-form.jpg"
 nav-menu: false
 
 ---
