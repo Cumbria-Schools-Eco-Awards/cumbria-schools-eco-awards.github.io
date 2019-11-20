@@ -7,8 +7,7 @@ show_tile: false
 order: 5
 image: "/assets/images/xr.jpg"
 description: 'All schools entering one or more of the previous award categories will
-  automatically be entered for the overall Cumbria environmental school of the year.
-  The winner will be chosen by our panel of judges. '
+  automatically be entered for the overall Cumbria environmental school of the year. '
 
 ---
 {{ page.description }}
