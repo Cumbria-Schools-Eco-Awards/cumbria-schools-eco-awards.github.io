@@ -10,4 +10,4 @@ image: "/assets/images/pic10.jpg"
 nav-menu: false
 
 ---
-Various Events
+Listings will be populated over the period up to the awards day in March 2020.
