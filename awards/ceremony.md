@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Schools' Environmental Awards Day & Eco-Innovation Day
-description: Share a fantastic day of talks, displays and award giving.
+title: The Schools' Environmental Awards Day
+description: Share a fantastic day of talks, displays and celebration.
 order: 4
 show_tile: false
 permalink: "/awards/ceremony"
