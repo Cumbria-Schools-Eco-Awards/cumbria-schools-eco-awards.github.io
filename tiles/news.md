@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: allposts
 title: News
 landing-title: All posts
 nav-menu: true
