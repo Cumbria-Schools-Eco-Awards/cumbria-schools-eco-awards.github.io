@@ -10,7 +10,4 @@ image: "/assets/images/pic08.jpg"
 nav-menu: false
 
 ---
-- Recomended item 1
-- Recomended item 2
-- Recomended item 3
-- Recomended item 4
+This resource facility will be populated over the period up to the awards day in March 2020.
