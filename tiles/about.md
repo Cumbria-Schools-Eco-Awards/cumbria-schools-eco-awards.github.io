@@ -3,10 +3,10 @@ layout: page
 title: About Us
 nav-menu: true
 description: Spreading and encouraging participation in ecological activity in Cumbria
-order: "3"
+order: 3
 intro: ''
 permalink: "/about"
-show_tile: false
+show_tile: true
 category: ''
 ---
 Our community is inextricably linked to the environment: the drama of the lakes and fells, the beaches and salt marches of the Solway Firth, the mudflats of Morecambe Bay and forests of Ennerdale or Grizedale. Young people across Cumbria have joined global action and advocacy for environmental protection. The Cumbrian Ecoforum has two aims.
