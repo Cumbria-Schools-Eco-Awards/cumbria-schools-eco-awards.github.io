@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: The Cumbria Eco Forum Awards
-description: Awards in four flavours.
+description: Awards in four flavours
 subtitle: Our Awards
 order: 2
 nav-menu: true
