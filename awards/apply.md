@@ -23,10 +23,13 @@ Think broadly about what your school does. The environment is at the heart of ev
    This is to tell us a little bit more about your school and the context for the environmental initiatives you are undertaking.
 2. Award submission – one application per category
    1. Video presentation – a 5 min video to illustrate what your school is doing. We do not expect you to be professional cinematographers, although you may have some very talented students, teachers or parents who can help.  
+   
       Videos should be uploaded to YouTube or Vimeo on a School Account with all of the appropriate permissions from your school.  
       
-      Documentation: ["YouTube"](https://support.google.com/youtube/answer/57407?hl=en-GB&ref_topic=9257439 ),
-      ["Vimeo"](https://help.vimeo.com/hc/en-us/categories/201496018-Uploading-to-Vimeo)
+      Both of these services have extensive documentation: ["YouTube"](https://support.google.com/youtube/answer/57407?hl=en-GB&ref_topic=9257439 ),
+      ["Vimeo"](https://help.vimeo.com/hc/en-us/categories/201496018-Uploading-to-Vimeo).  There are also many 3rd party blogs and videos that offer training in a sometimes more relevant and approachable manner.  We aim to recomend such resources over the coming months. 
+      
+      Editing may be done in any number of suites but we have ["Filmora"](https://filmora.wondershare.com/) as a good free option and plan to use this in our own short films.
       
    2. Supporting documents – a written summary of your project(s) to support and further explain the projects summarised in your video.
 3. Finalists
