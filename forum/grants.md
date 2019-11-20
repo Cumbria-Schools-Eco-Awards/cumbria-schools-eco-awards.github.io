@@ -7,7 +7,7 @@ description: Finding start-up funds for new initiatives is often the first hurdl
   between £100 and £500.
 order: 2
 show_tile: false
-permalink: "/forum/events"
+permalink: "/forum/grants"
 category: Forum-Page
 image: "/assets/images/pic10.jpg"
 nav-menu: false
