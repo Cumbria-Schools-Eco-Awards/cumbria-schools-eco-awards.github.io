@@ -3,7 +3,7 @@ title: Cumbria Eco Forum
 email: contact@ecoforum.org.uk
 description: Celebrating and Supporting Local Environmental Initiatives.
 baseurl: # the subpath of your site, e.g. /blog
-url:  https://ecoforum.org.uk # the base hostname & protocol for your site
+url:  https://cumbria.ecoforum.org.uk # the base hostname & protocol for your site
 author:
 street_address: 37-39 Main Street
 city: Sedbergh
