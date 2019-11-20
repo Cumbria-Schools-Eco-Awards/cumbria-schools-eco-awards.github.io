@@ -37,6 +37,8 @@ fields:
   hidden: true
   default: 
 pages:
+- awards/categories/community-award.md
+- forum/grants.md
 - forum/events.md
 - forum/resources.md
 - tiles/news.md
@@ -45,7 +47,5 @@ pages:
 - awards/categories/overall-award.md
 - awards/categories/one-world-award.md
 - awards/categories/innovation_award.md
-- awards/categories/community-award.md
 - awards/ceremony.md
-- forum/grants.md
 - awards/apply.md
