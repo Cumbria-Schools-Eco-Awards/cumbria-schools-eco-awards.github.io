@@ -35,12 +35,11 @@ fields:
   name: category
   label: category
   hidden: true
-  default:
+  default: 
 pages:
+- tiles/news.md
 - awards/ceremony.md
 - forum/grants.md
-- tiles/news.md
-- tiles/about.md
 - awards/apply.md
 - forum/resources.md
 - forum/events.md
