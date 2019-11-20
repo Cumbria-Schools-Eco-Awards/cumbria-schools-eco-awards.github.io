@@ -5,18 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: forum
-  label: Forum Pages
-  create: documents
+  path: tiles
+  label: Tiles
+  create: all
   match: "**"
 - type: directory
   path: awards
   label: Awards Pages
-  create: all
-  match: "**"
-- type: directory
-  path: tiles
-  label: Tiles
   create: all
   match: "**"
 - type: directory
@@ -26,6 +21,11 @@ sections:
   match: "**"
   templates:
   - page
+- type: directory
+  path: forum
+  label: Forum Pages
+  create: documents
+  match: "**"
 - type: jekyll-posts
   label: Posts
   create: all
