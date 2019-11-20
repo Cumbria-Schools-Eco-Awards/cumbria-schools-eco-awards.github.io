@@ -37,8 +37,8 @@ fields:
   hidden: true
   default: 
 pages:
-- awards/ceremony.md
 - awards/apply.md
+- awards/ceremony.md
 - awards/categories/overall-award.md
 - awards/categories/innovation_award.md
 - awards/categories/one-world-award.md
