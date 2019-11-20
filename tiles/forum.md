@@ -10,10 +10,11 @@ show_tile: true
 category: ''
 intro: We would like to see every school in Cumbria engaged in environmental activities
   but know that starting out can be daunting. Through the eco-connections hub we want
-  to link the plethora of experience available within our local community, connect
-  schools to support each other, provide best case examples of initiatives happening
-  across the county, create an information portal and a calendar of events. We will
-  do the hard research work for you so that you can get on with the action.
+  to link the plethora of experience available within our local community and connect
+  schools to support each other. We also want to provide best case examples of initiatives
+  happening across the county and create an information portal with a calendar of
+  events. We will do the hard research work for you so that you can get on with the
+  action.
 image: ''
 
 ---
