@@ -3,7 +3,7 @@ layout: page
 title: About Us
 nav-menu: true
 description: Spreading and encouraging participation in ecological activity in Cumbria
-order: "3"
+order: 3
 intro: ''
 permalink: "/about"
 category: ''

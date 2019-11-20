@@ -35,9 +35,8 @@ fields:
   name: category
   label: category
   hidden: true
-  default: 
+  default:
 pages:
-<<<<<<< HEAD
 - awards/categories/community-award.md
 - awards/categories/innovation_award.md
 - awards/categories/one-world-award.md
@@ -50,11 +49,3 @@ pages:
 - forum/resources.md
 - tiles/news.md
 - tiles/about.md
-=======
-- tiles/news.md
-- awards/ceremony.md
-- forum/grants.md
-- awards/apply.md
-- forum/resources.md
-- forum/events.md
->>>>>>> 4edc3106efd49e4dbbf07f6cc808fafe41174d09
