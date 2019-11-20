@@ -11,7 +11,7 @@ intro: 'There are four award categories, with all entries automatically entered 
   prize. '
 permalink: "/awards/categories"
 category: Award-Page
-image: "/assets/images/xr.jpg"
+image: "/assets/images/award-montage.jpg"
 nav-menu: false
 
 ---
