@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: The Cumbria Eco Forum
-description: Recourses and events to share
+description: Resources and events to share
 subtitle: Our Forum
 order: 1
 nav-menu: true
