@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aliquam
+title: Awards Venue Announced
 description: Ipsum dolor sit amet
 image: assets/images/pic01.jpg
 
