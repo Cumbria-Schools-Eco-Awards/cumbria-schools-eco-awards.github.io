@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/team.yml
-  label: Team
 - type: directory
   path: tiles
   label: Tiles
@@ -32,6 +29,9 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: document
+  path: _data/team.yml
+  label: Team
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
