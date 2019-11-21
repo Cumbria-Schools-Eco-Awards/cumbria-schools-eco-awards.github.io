@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: "\\_data\\team.yml"
+  path: _data/team.yml
   label: Team
-  match: "**/*"
 - type: directory
   path: tiles
   label: Tiles
