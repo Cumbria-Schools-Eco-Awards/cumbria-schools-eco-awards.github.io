@@ -38,3 +38,8 @@ permalink: pretty
 
 plugins:
   - jekyll-sitemap
+
+exclude:
+  - forty_jekyll_theme.gemspec
+  - LICENSE.md
+  - README.md
