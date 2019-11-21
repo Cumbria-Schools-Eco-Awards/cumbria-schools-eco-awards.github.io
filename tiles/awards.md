@@ -13,7 +13,7 @@ intro: There is currently no requirement for schools to engage in environmental 
   Cumbrian schools a chance to showcase what they are doing to improve environmentalism
   and sustainability; and be rewarded for their efforts.
 show_tile: true
-image: ''
+image: '/assets/images/sedbergh-eve.jpg'
 category: ''
 
 ---

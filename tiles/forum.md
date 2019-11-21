@@ -15,7 +15,7 @@ intro: We would like to see every school in Cumbria engaged in environmental act
   happening across the county and create an information portal with a calendar of
   events. We will do the hard research work for you so that you can get on with the
   action.
-image: ''
+image: '/assets/images/xr.jpg'
 
 ---
 {% assign awards = site.pages | where: "category","Forum-Page" | sort: "order" %}

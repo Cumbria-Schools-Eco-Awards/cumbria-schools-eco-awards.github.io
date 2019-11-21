@@ -8,6 +8,7 @@ intro: ''
 permalink: "/about"
 category: ''
 show_tile: true
+image: '/assets/images/children-garden.jpg'
 
 ---
 Our community is inextricably linked to the environment: the drama of the lakes and fells, the beaches and salt marches of the Solway Firth, the mudflats of Morecambe Bay and forests of Ennerdale or Grizedale. Young people across Cumbria have joined global action and advocacy for environmental protection. The Cumbrian Ecoforum has two aims.
