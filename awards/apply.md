@@ -35,7 +35,7 @@ Think broadly about what your school does. The environment is at the heart of ev
 
    Up to five finalists will be chosen for each category. Each finalist will be asked to form a presentation team of one teacher and up to three students and present live to the judges on Awards Day.
 
-Once you have decided on the category or categories you would like to apply for, download the [application pack.](/assets/images/application-form.pdf)
+Once you have decided on the category you would like to apply for, download the application pack as a [pdf](https://app.forestry.io/sites/owrg3eggokqd3w/body-media//assets/images/application-form.pdf) or in a format of your choice from [Google document.](https://docs.google.com/document/d/1DzWjd1bNIjAkNYeFtGmWbNMDkVqrWVVari4ANgWFito/edit?usp=sharing) 
 
 | Deadline for applications: | Friday 7th February 2020 |
 | Awards day: | Friday 13th March 2020 |
