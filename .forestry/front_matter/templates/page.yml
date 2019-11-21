@@ -37,15 +37,15 @@ fields:
   hidden: true
   default: 
 pages:
+- tiles/news.md
 - tiles/about.md
+- awards/ceremony.md
 - forum/events.md
 - awards/apply.md
-- awards/ceremony.md
 - awards/categories/overall-award.md
 - awards/categories/innovation_award.md
 - awards/categories/one-world-award.md
 - awards/categories/community-award.md
 - forum/grants.md
 - forum/resources.md
-- tiles/news.md
 - awards/categories/within-school-award.md
