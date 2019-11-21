@@ -1,21 +1,22 @@
+---
 - name: Emily Fitzherbert (PhD)
-  description:
-    "Emily is a Doctor of Anthropology and a Biology teacher at the Lakes School.
-     She has an deep knowledge of ecology and a has a first person appreciation for some of the
-     challanges ecological education faces in schools.  Emily will produce much of the content on the website
-     organise events and administration of the forum."
-  image: /assets/images/team/placeholder.png
+  description: Emily is a Doctor of Anthropology and a Biology teacher at the Lakes
+    School. She has an deep knowledge of ecology and a has a first person appreciation
+    for some of the challanges ecological education faces in schools.  Emily will
+    produce much of the content on the website organise events and administration
+    of the forum.
+  image: "/assets/images/team/placeholder.png"
 - name: David Guthrie
-  description:
-    "David, is an Eco Forum director and founder with a passion for conservation and education.
-     He has 30 years experience leeding conservation work in Tanzania and Slovakia."
-  image: /assets/images/team/placeholder.png
+  description: David, is an Eco Forum director and founder with a passion for conservation
+    and education. He has 30 years experience leeding conservation work in Tanzania
+    and Slovakia.
+  image: "/assets/images/team/placeholder.png"
 - name: Craig Chamberlain
-  description:
-   "Craig manages the Eco Forum's technology, developing the website and supporting systems."
-  image: /assets/images/team/placeholder.png
+  description: Craig manages the Eco Forum's technology, developing the website and
+    supporting systems.
+  image: "/assets/images/team/placeholder.png"
 - name: Eric Sallu
-  description:
-    "Eric Sallu hails from 'Dar es Salam', and has been studying tourism in the UK.
-     He will assist in the forum's administration and produce content for this site."
-  image: /assets/images/team/placeholder.png
+  description: Eric Sallu hails from 'Dar es Salam', and has been studying tourism
+    in the UK. He will assist in the forum's administration and produce content for
+    this site.
+  image: "/assets/images/team/placeholder.png"
