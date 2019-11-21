@@ -5,11 +5,19 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
+  hidden: true
 - type: text
   name: title
   label: title
-- type: text
-  name: description
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: description
 - type: file
   name: image
