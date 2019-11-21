@@ -19,12 +19,7 @@ Our community is inextricably linked to the environment: the drama of the lakes 
    2. Start up grants for environmental initiatives.
 2. To celebrate and reward the best schools in the county through an annual competition.
 
-## Team:
-
-* Emily Fitzherbert (PhD)
-* David Guthrie
-* Craig Chamberlain
-* Eric Sallu
+{% include team.html %}
 
 ## Our Hosts:
 

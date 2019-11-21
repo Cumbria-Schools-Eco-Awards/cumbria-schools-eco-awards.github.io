@@ -1,0 +1,17 @@
+<section id="team" class="spotlights">
+  <h2> Team: </h2>
+  {% for row in site.data.team %}
+    <section>
+      <img src="{{ row.image }}" alt="" data-position="center center" />
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+            <h3>{{ row.name }}</h3>
+          </header>
+          {% assign team = row.description | markdownify %}
+          <p></p>
+        </div>
+      </div>
+    </section>
+  {% endfor %}
+</section>
