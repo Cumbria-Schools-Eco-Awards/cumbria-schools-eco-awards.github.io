@@ -20,4 +20,10 @@ The Schools' Environmental Awards Day will also become our annual environmental 
 
 The award ceremony will take place at Sedbergh school on the 13th March 2020. There is the opportunity for all schools in the county to attend what will be a fascinating series of talks and workshops on environmentalism. Finalist schools presenting their projects to judges will offer a great opportunity for visiting  teachers/students to be inspired. A full programme of the day's events will become available in the New Year.
 
-_"_It is a huge pleasure to be associated with these fantastic Awards in their inaugural year. Environmental issues must remain in all of our minds; and especially the younger generation, we must educate and energise. We have seen a real sea change here at Sedbergh with increased awareness of threats to our planet and it has made me very proud to watch our own Eco Sedbergh Society grow as fast as any I can remember. I am sure the Awards will be a huge success and I urge all pupils and schools to get involved and make a difference". Dan Harrison MA Cantab, Headmaster, Sedbergh School.
+_"_It is a huge pleasure to be associated with these fantastic Awards in their inaugural year. Environmental issues must remain in all of our minds; and especially the younger generation, we must educate and energise. We have seen a real sea change here at Sedbergh with increased awareness of threats to our planet and it has made me very proud to watch our own Eco Sedbergh Society grow as fast as any I can remember. I am sure the Awards will be a huge success and I urge all pupils and schools to get involved and make a difference". 
+
+Dan Harrison MA Cantab,
+
+Headmaster, 
+
+Sedbergh School.
