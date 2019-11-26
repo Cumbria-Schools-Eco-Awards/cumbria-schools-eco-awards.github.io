@@ -24,6 +24,6 @@ _( "_It is a huge pleasure to be associated with these fantastic Awards in their
 
 Dan Harrison MA Cantab,
 
-Headmaster 
+Headmaster,
 
-Sedbergh School
+Sedbergh School.
