@@ -21,5 +21,3 @@ The Schools' Environmental Awards Day will also become our annual environmental 
 The award ceremony will take place at Sedbergh school on the 13th March 2020. There is the opportunity for all schools in the county to attend what will be a fascinating series of talks and workshops on environmentalism. Finalist schools presenting their projects to judges will offer a great opportunity for visiting  teachers/students to be inspired. A full programme of the day's events will become available in the New Year.
 
 _(Quote from DAN HARRISON : Sedbergh Headmaster)_
-
-### 
