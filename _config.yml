@@ -39,6 +39,9 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
 
+paginate: 5
+paginate_path: "/news/page:num/"
+
 exclude:
   - forty_jekyll_theme.gemspec
   - LICENSE.md

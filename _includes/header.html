@@ -12,7 +12,8 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-				{% assign pages = site.pages | where:"nav-menu",true | sort:"order" %}
+				{% assign news = site.pages | where: "path", "news/index.html" |  first  %}
+				{% assign pages = site.pages | where:"nav-menu",true | push: news | sort:"order" %}
         {% for page in pages %}
 		         <li><a href="{{page.url}}">{{ page.title }}</a></li>
 	    	{% endfor %}

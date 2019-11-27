@@ -22,8 +22,9 @@
             <h1>{{ page.title }}</h1>
           </header>
           {{ content }}
+          {% include pagination-links.html %}
       </div>
-        {% for post in site.posts limit:10  %}
+        {% for post in paginator.posts  %}
         {% if post.title != 404 %}
           <section>
             <a href="{{ post.url }}" class="image">
@@ -45,7 +46,9 @@
         {% endif %}
         {% endfor %}
       </section>
-
+      <div class="inner">
+         {% include pagination-links.html %}
+      </div>
     </div>
 
     {% include footer.html %}

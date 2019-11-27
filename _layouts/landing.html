@@ -32,16 +32,16 @@
 
     <!-- Main -->
     <div id="main">
-
-      <section id="one">
-      	<div class="inner">
-      		<header class="major">
-      			<h2>{{ page.subtitle }}</h2>
-      		</header>
-      		{{ page.intro }}
-      	</div>
-      </section>
-
+    {% if page.subtitle %}
+          <section id="one">
+          	<div class="inner">
+          		<header class="major">
+          			<h2>{{ page.subtitle }}</h2>
+          		</header>
+          		{{ page.intro }}
+          	</div>
+          </section>
+    {% endif page.subtitle %}
     {{ content }}
     </div>
 
