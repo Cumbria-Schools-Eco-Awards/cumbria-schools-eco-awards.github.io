@@ -23,6 +23,6 @@ I resorted to making a redirect page for each page of cumbria.ecoforum.org and u
 
 {% gist 41ec4343d4fb417e082ecac72fea2de2 %}
 
-We have some other interesting features from GSuite but I'll save them for another article. 
+We have some other interesting features from GSuite but I'll save them for another article.
 
-I hope you enjoy the site.  If you have any questions about the site please get in touch, [craig@craig.chamberlain.it](mailto://craig@craig.chamberlain.it). 
+I hope you enjoy the site.  If you have any questions about the site please get in touch, [craig@craig.chamberlain.it](mailto://craig@craig.chamberlain.it).
