@@ -16,21 +16,34 @@
     <!-- Main -->
     <div id="main" class="alt">
 
-      <!-- One -->
-      <section id="one">
-        	<div class="inner">
-            {{ content }}
-            {% for post in site.posts %}
-        	  {% if post.title != 404 %}
-        	  <header class="major">
-        	    <h2>{{ post.title }}</h2>
-        	  </header>
-        	  {% if post.image %}<span class="image main"><img src="{{ post.image }}" alt="" /></span>{% endif %}
-        	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
-        	  <p>{{ post.content }}</p>
-        	  {% endif %}
-            {% endfor %}
-        	</div>
+      <section id="one" class="spotlights">
+        <div class="inner">
+          <header class="major">
+            <h1>{{ page.title }}</h1>
+          </header>
+          {{ content }}
+      </div>
+        {% for post in site.posts limit:10  %}
+        {% if post.title != 404 %}
+          <section>
+            <a href="{{ post.url }}" class="image">
+              <img src="{{ post.image }}" alt="" data-position="center center" />
+            </a>
+            <div class="content">
+              <div class="inner">
+                <a href="{{ post.url }}">
+                    <header class="major">
+                      <h3>{% if post.date %}{{ post.date | split: ' ' | first | replace: '-', '/'}}: {% endif %}{{ post.title }}</h3>
+                    </header>
+
+                    {{ post.content | markdownify | truncatewords: 60 }}
+                </a>
+
+              </div>
+            </div>
+          </section>
+        {% endif %}
+        {% endfor %}
       </section>
 
     </div>

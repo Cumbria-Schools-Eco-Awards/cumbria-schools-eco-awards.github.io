@@ -2,7 +2,7 @@
 layout: post
 title: Awards Announced
 description: ''
-image: "/assets/images/xr-banner.jpg"
+image: "/assets/images/xr.jpg"
 
 ---
 Environmentalism is now an essential part of modern life and the nation is waking up to its responsibility to the next generation. Schools and students have already played a major part in encouraging the shift, and we would like to help maintain the momentum in Cumbria.

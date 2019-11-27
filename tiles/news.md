@@ -12,4 +12,4 @@ show_tile: true
 category: ''
 
 ---
-<h1>News</h1>
+{{ page.description }}
