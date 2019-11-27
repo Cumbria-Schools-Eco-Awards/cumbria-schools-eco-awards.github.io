@@ -126,6 +126,18 @@
 		font-style: italic;
 		margin: 0 0 _size(element-margin) 0;
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
+
+
+		> footer {
+		  display: block;
+		  font-size: 80%; // back to default font-size
+		  font-style: normal;
+			font-weight: bold;
+
+		  &::before {
+		    content: "\2014 \00A0"; // em dash, nbsp
+		  }
+		}
 	}
 
 	code {
