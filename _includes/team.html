@@ -2,13 +2,13 @@
   <h2> Team: </h2>
   {% for row in site.data.team %}
     <section>
-      <img src="{{ row.image }}" alt="" data-position="center center" />
+      <img src="{{ row.image }}" alt="{{ row.name }}" data-position="center center" class="image prop-scale" title="{{ row.name }}"/>
       <div class="content">
         <div class="inner">
           <header class="major">
             <h3>{{ row.name }}</h3>
           </header>
-          {% assign team = row.description | markdownify %}
+          {{ row.description | markdownify }}
           <p></p>
         </div>
       </div>

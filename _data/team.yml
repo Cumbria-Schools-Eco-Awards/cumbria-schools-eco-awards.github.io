@@ -1,10 +1,16 @@
 ---
 - name: Emily Fitzherbert (PhD)
-  description: Emily is a Doctor of Anthropology and a Biology teacher at the Lakes
-    School. She has an deep knowledge of ecology and a has a first person appreciation
-    for some of the challanges ecological education faces in schools.  Emily will
-    produce much of the content on the website organise events and administration
-    of the forum.
+  description: "Emily spent the first 15 years of her career as an interdisciplinary 
+  conservation biologist working on finding evidenced based solutions to conservation 
+  issues ranging from economics of sustainable Oil Palm production to using traditional 
+  institutions to halt lion killing. In 2013 she returned with her daughter to her home in 
+  Cumbria and trained to be a teacher. She has worked in schools across the county and 
+  currently   teaches Biology at the Lakes School. She is passionate about linking her 
+  environmental conservation with education. She has led fieldwork expeditions for students 
+  both locally and internationally. She was a National Geographic Explorer and currently sits
+  on the committee for the Royal Geographical Society’s regional division. 
+  A keen (although slow) fell runner and paddleboarder she wouldn’t want to live anywhere 
+  else in the UK."
   image: "/assets/images/team/placeholder.png"
 - name: David Guthrie
   description: "David has been a safari operator in Tanzania for 30 years. His passion
@@ -20,14 +26,15 @@
     for those schools intent on reducing their individual footprint. He hopes it will
     help pull together the burgeoning community of concerned and mobilised folk, all
     of whom share the dream of a county full of truly global citizens who understand
-    the impact of their actions on the planet.   \n"
-  image: "/assets/images/team/placeholder.png"
+    the impact of their actions on the planet."
+  image: "/assets/images/team/DavidGuthrie.png"
 - name: Craig Chamberlain
   description: Craig manages the Eco Forum's technology, developing the website and
     supporting systems.
-  image: "/assets/images/team/placeholder.png"
+  image: "/assets/images/team/CraigChamberlain.png"
 - name: Eric Sallu
-  description: |-
-    I am from Tanzania and have been studying Business and Tourism in the UK. I am very honored to be a part of this amazing team, where we all share the same passion of protecting the environment. I hope that the Eco-Forum will increase awareness and make people understand that stress we put our environment in, could jeopardize the future generations.Therefore, we have to make sure the changes that need to be done in our lifestyles are done right now!!
-    In addition, I will assist in the forum's administration and produce content for this site.
-  image: "/assets/images/team/placeholder.png"
+  description: "Eric is from Tanzania and has been studying Business and Tourism in the UK.
+    He is passionate about protecting the environment and hopes that the Eco-Forum can help us 
+    collectively make the changes we need to protect future generations starting now.  
+    Eric will assist in the forum's administration and produce content for this site."
+  image: "/assets/images/team/EricSallu.png"

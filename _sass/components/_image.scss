@@ -39,7 +39,12 @@ img {
 			margin: 0 0 1.25em 1.5em;
 			top: 0.25em;
 		}
-
+		
+		&.prop-scale {
+			object-fit: contain;
+			object-position: top;
+		}
+		
 		&.fit {
 			display: block;
 			margin: 0 0 _size(element-margin) 0;
