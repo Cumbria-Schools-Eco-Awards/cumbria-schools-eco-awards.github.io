@@ -5,7 +5,7 @@ description: ''
 image: "/assets/images/flyer.jpg"
 
 ---
-Please [download our flyer](https://app.forestry.io/sites/owrg3eggokqd3w/body-media//assets/images/flyer.pdf) and print out for your noticeboard.
+Please [download our flyer](/assets/images/flyer.pdf) and print out for your noticeboard.
 
 ![](/assets/images/flyer.jpg "Flyer")
 
