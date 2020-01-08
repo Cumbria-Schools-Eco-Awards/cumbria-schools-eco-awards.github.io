@@ -28,7 +28,7 @@ category: ''
                 <h3>{% if post.date %}{{ post.date | split: ' ' | first | replace: '-', '/'}}: {% endif %}{{ post.title }}</h3>
               </header>
 
-              {{ post.content | markdownify | truncatewords: 60 }}
+              {{ post.excerpt | strip_html }}
           </a>
 
         </div>
