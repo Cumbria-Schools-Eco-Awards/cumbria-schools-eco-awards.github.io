@@ -37,14 +37,14 @@ fields:
   hidden: true
   default: 
 pages:
-- awards/categories/innovation_award.md
-- forum/resources.md
-- forum/events.md
 - awards/apply.md
-- awards/categories/within-school-award.md
-- awards/categories/one-world-award.md
-- forum/grants.md
 - awards/categories/community-award.md
-- awards/ceremony.md
+- awards/categories/innovation_award.md
+- awards/categories/one-world-award.md
 - awards/categories/overall-award.md
+- awards/categories/within-school-award.md
+- awards/ceremony.md
+- forum/events.md
+- forum/grants.md
+- forum/resources.md
 - tiles/about.md
