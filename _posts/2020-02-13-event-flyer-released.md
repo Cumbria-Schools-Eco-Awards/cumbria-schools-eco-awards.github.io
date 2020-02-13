@@ -26,8 +26,8 @@ Have a stand of your own and share your own school’s story.
 Let us know the numbers of students and teachers and if you would like a stand for your school.
 
   
-Please [download our event flyer](https://app.forestry.io/sites/owrg3eggokqd3w/body-media//assets/images/event-flyer.pdf) and print out for your noticeboard.
+Please [download our event flyer](/assets/images/event-flyer.pdf) and print out for your noticeboard.
 
-[![](/assets/images/event-flyer-full.jpg "Flyer")](https://app.forestry.io/sites/owrg3eggokqd3w/body-media//assets/images/event-flyer.pdf)
+[![](/assets/images/event-flyer-full.jpg "Flyer")](/assets/images/event-flyer.pdf)
 
 Call us on 01943-604030 or email us at [contact@ecoforum.org.uk](mailto:contact@ecoforum.org.uk) for further information.
