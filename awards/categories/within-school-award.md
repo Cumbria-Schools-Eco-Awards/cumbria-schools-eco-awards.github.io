@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Within School Action Awards
+title: Within School Action Award
 nav-menu: false
 category: Award
 show_tile: false
