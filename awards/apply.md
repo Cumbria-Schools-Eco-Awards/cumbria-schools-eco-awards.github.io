@@ -38,4 +38,4 @@ Think broadly about what your school does. The environment is at the heart of ev
 Once you have decided on the category you would like to apply for, download the application pack as a [pdf](https://docs.google.com/document/d/1DzWjd1bNIjAkNYeFtGmWbNMDkVqrWVVari4ANgWFito/export?format=pdf){:target="_blank"}, [Microsoft Word file](https://docs.google.com/document/d/1DzWjd1bNIjAkNYeFtGmWbNMDkVqrWVVari4ANgWFito/export?format=docx){:target="_blank"} or in a format of your choice from our [GoogleDrive.](https://docs.google.com/document/d/1DzWjd1bNIjAkNYeFtGmWbNMDkVqrWVVari4ANgWFito/edit?usp=sharingexport){:target="_blank"}
 
 | Deadline for applications: | Friday 21st February 2020 | 
-| Awards day: | Friday 13th March 2020 |
+| Awards day: | To be announced |
