@@ -9,6 +9,10 @@ image: "/assets/images/litter-pick.jpg"
 description: 'Pivotal in the wider community, we know that schools have influence
   far beyond their fence lines. This award is for schools or pupils engagement in
   environmentalism beyond the school perimeter. '
-
+playlist: "PLVYKUTjNtoaa7tLNJmzEjaTgfqQjkmulF"
 ---
 {{ page.description }}
+
+## Our 2020 Finalists
+
+{% include youtube-playlist.html playlist = page.playlist %}
