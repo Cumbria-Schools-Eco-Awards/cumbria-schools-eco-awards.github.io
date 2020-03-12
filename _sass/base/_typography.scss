@@ -44,6 +44,10 @@
 		&:active {
 			color: desaturate(darken(_palette(highlight), 15), 5) !important;
 		}
+		&.sponsor {
+			 max-width:20em;
+			 display:block;
+		}
 	}
 
 	strong, b {

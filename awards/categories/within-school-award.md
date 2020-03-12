@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: award
 title: Within School Action Award
 nav-menu: false
 category: Award
@@ -10,9 +10,13 @@ description: This award is for demonstrable impact either through a single initi
   or a range of activities that take place within the schools boundary to lower the
   school’s environmental footprint and safeguard the school environment.
 playlist: "PLVYKUTjNtoaaDGfNt7TEYeq0i7qQnwXQX"
+sponsor: "Footloose Travel"
+sponsor-img: /assets/images/footloose-sponsor.png
+sponsor-url: https://www.footloose.co.uk/
+finalists:
+  - Armathwaite Community School
+  - Brough Community Primary School
+  - Heron Hill Primary School
+  - Queen Katherine School
+  - Sedbergh Primary School
 ---
-{{ page.description }}
-
-## Our 2020 Finalists
-
-{% include youtube-playlist.html playlist = page.playlist %}

@@ -1,0 +1,25 @@
+---
+layout: page
+---
+{{ content }}
+
+{{ page.description }}
+
+<h2>Our 2020 Finalists</h2>
+
+{% include youtube-playlist.html playlist = page.playlist %}
+<p>
+<ul>
+{% for finalist in page.finalists %}
+  <li>{{finalist}}</li>
+{% endfor %}
+</ul>
+</p>
+
+<h2>The Award Sponsor</h2>
+<p>
+A big thanks to <a href="{{ page.sponsor-url }}" target="_blank">{{ page.sponsor }}</a> for funding this award.
+</p>
+<a href="{{ page.sponsor-url }}" class="sponsor" target="_blank">
+  <img src="{{ page.sponsor-img }}"/>
+</a>
