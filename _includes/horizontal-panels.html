@@ -11,7 +11,7 @@
           </header>
           {{ row.description | markdownify }}
           <ul class="actions">
-            <li><a href="{{ row.url }}" class="button">Learn more</a></li>
+            <li><a href="{{ row.url }}" class="button">{{ row.button | default: "Learn More"}}</a></li>
           </ul>
         </div>
       </div>

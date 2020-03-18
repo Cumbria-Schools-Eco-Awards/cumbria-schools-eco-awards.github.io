@@ -23,13 +23,8 @@
 
                 </header>
                 <div class="content">
-
                     {{ page.description }}
-
                 </div>
-				
-				{% include announcement.html %}
-
             </div>
         </section>
 
@@ -41,7 +36,7 @@
           		<header class="major">
           			<h2>{{ page.subtitle }}</h2>
           		</header>
-          		{{ page.intro }}
+          		{{ page.intro | markdownify }}
           	</div>
           </section>
     {% endif page.subtitle %}

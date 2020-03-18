@@ -19,4 +19,5 @@ finalists:
   - Heron Hill Primary School
   - Queen Katherine School
   - Sedbergh Primary School
+button: "See the 2020 Finalists"
 ---

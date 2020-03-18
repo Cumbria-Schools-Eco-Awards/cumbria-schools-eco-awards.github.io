@@ -18,4 +18,5 @@ finalists:
   - Distington Community School
   - Dean Barwick Primary School
   - Robert Ferguson Primary School
+button: "See the 2020 Finalists"
 ---

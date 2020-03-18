@@ -16,4 +16,5 @@ finalists:
   - Kirkoswald C of E Primary School
   - Silloth Primary School
   - All Other Finalists
+button: "See the 2020 Finalists"
 ---
