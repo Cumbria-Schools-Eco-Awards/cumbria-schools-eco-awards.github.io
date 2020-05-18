@@ -1,10 +1,12 @@
-<section id="announcement">
+{% for announcement in include.announcements  limit: include.limit%}
+	<section id="announcement">
 	<div class="inner">
 		<header class="major">
-			<h2>{{ site.posts.first.title }}</h2>
+			<h2>{{ announcement.title }}</h2>
 		</header>
 		<div class="content">
-			{{ site.posts.first.content | markdownify }}
+			{{ announcement.content | markdownify }}
 		</div>
 	</div>
-</section>
+	</section>
+{% endfor %}

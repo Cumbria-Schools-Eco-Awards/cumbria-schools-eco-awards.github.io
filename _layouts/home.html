@@ -30,9 +30,7 @@
 
     <!-- Main -->
     <div id="main">
-
-        {% include announcement.html %}
-
+        {% include announcement.html announcements = site.posts limit = 2 %}
         <!-- One -->
         {% include tiles.html %}
 
